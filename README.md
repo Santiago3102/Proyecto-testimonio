@@ -13,7 +13,7 @@ This project is a basic React application that displays a simple webpage featuri
 
 ## Screenshot
 
-![Testimonials Page Screenshot](}https://github.com/Santiago3102/Proyecto-testimonio/blob/master/Captura%20de%20pantalla%202024-07-29%20041239.png?raw=true)
+![Testimonials Page Screenshot](https://github.com/Santiago3102/Proyecto-testimonio/blob/master/Captura%20de%20pantalla%202024-07-29%20041239.png?raw=true)
 
 
 # Getting Started with Create React App
