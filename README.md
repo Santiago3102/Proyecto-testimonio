@@ -1,5 +1,21 @@
 Link de Netlily: https://chimerical-bublanina-4959c9.netlify.app/
 
+# Simple Testimonials Page
+
+## Description
+
+This project is a basic React application that displays a simple webpage featuring several testimonials. It demonstrates the fundamental concepts of React, including component creation, state management, and rendering dynamic content.
+
+## Features
+
+- **Testimonials Display**: Shows a list of testimonials with names and comments.
+- **Basic Styling**: Simple and clean design for readability.
+
+## Screenshot
+
+![Testimonials Page Screenshot](}https://github.com/Santiago3102/Proyecto-testimonio/blob/master/Captura%20de%20pantalla%202024-07-29%20041239.png?raw=true)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
